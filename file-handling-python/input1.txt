@@ -1,0 +1,20 @@
+This is a test file.
+<label>Content1F</label>
+Some random text here.
+<label>Content2A</label>
+More text between the tags.
+Another line with <label>Content3E</label> embedded.
+<label>Content4B</label> at the end.
+No tag here.
+<label>Content5D</label>
+<label>Content6C</label>
+This is a test file.
+<label2>Content1F2</label2>
+Some random text here.
+<label2>Content2A2</label2>
+More text between the tags.
+Another line with <label>Content3E3</label> embedded.
+<label2>Content4B3</label2> at the end.
+No tag here.
+<label2>Content5D1</label2>
+<label2>Content6C1</label2>
